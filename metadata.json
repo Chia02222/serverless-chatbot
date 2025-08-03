@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chatbot serverless",
+  "description": "A simple and elegant chatbot interface powered by the Gemini API, featuring real-time streaming responses for an interactive user experience.",
+  "requestFramePermissions": []
+}
